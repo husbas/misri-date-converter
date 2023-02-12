@@ -1,4 +1,4 @@
-# misri-date-converter
+# Date Converter
 
 A simple Python function to convert Gregorian calendar date to Hijri (Dawoodi Bohra) calendar
 
